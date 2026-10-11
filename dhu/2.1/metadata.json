@@ -1,0 +1,14 @@
+{
+  "version": "2.1",
+  "certificates": [
+    {
+      "kind": "desktop-head-unit",
+      "sha256": "4eb581dcee2b84369ca87066ab6eaa73a4783aef5c7b6edc6841e066cffa7e7c",
+      "subject": "C=US\nST=California\nL=Mountain View\nO=Android-Auto-Internal\nOU=01",
+      "issuer": "C=US\nST=California\nL=Mountain View\nO=Google Automotive Link",
+      "serialNumber": "0111",
+      "notBefore": null,
+      "notAfter": null
+    }
+  ]
+}
