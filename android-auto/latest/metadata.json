@@ -1,14 +1,14 @@
 {
-  "version": "17.9.664004-release",
+  "version": "17.9.664044-release",
   "certificates": [
     {
       "kind": "carservice",
-      "sha256": "39b7417be3f2bcd60b30e3acd4a2995d82661d6d66110e45c10a15d2a3c2ee6e",
+      "sha256": "893145f587e327701bd5509d5a3b62bbdc1c80bc5152f5b1ff62293b3dfbb13f",
       "subject": "C=US\nST=California\nL=Mountain View\nO=CarService",
       "issuer": "C=US\nST=California\nL=Mountain View\nO=Google Automotive Link",
-      "serialNumber": "29E079688BCE38",
+      "serialNumber": "13AE5EC90E7476",
       "notBefore": "2014-07-04T00:00:00.000Z",
-      "notAfter": "2027-01-20T22:48:17.000Z"
+      "notAfter": "2027-02-03T17:42:06.000Z"
     },
     {
       "kind": "google-automotive-link",
